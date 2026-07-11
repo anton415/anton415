@@ -1,57 +1,51 @@
-# Антон Сердюченко
+# Anton Serdyuchenko
 
-Я software developer, развивающийся в направлении **AI Software Engineering**.
+Backend software developer transitioning toward **AI Software Engineering**.
 
-Мой фокус — не chatbot-приложения, а **open-source tooling для agent orchestration в software engineering**: управляемые AI-assisted workflows, работа через спецификации, декомпозицию задач, review и воспроизводимый процесс разработки.
+I build local-first products where requirements, architecture, tests, and operational safety are explicit. My current work combines Python backend engineering, financial domain modeling, and controlled AI-assisted development.
 
-## Основной проект
+## Active project: Personal Finance Tracker
 
-### Mini Agent Orchestrator
+**Personal Finance Tracker** is a local-first FastAPI application replacing an Excel-based workflow for investments and personal finances with structured data, testable calculations, and privacy-safe AI access.
 
-**Mini Agent Orchestrator** — мой текущий proof-of-work проект.
+> **Current stage:** v0.2 development  
+> **Current focus:** Ownership Recovery and reliability  
+> **Next increment:** tested SQLite backup and restore
 
-Это CLI/workflow-инструмент для разработки через последовательность:
+### What is already implemented
 
-1. идея;
-2. спецификация;
-3. декомпозиция на задачи;
-4. реализация;
-5. review;
-6. улучшение решения.
+- Excel-to-SQLite migration validated with synthetic fixtures
+- portfolio positions, allocation, target deviation, and budget-aware buy plans
+- per-account portfolio views and editable target allocations
+- manual buy transactions and on-demand MOEX price updates
+- read-only portfolio data-quality checks
+- versioned JSON and Markdown exports for AI-assisted analysis
+- automated tests for financial calculations, migration, and data integrity
 
-Цель проекта — сделать работу с AI-агентами более инженерной: не просто отправлять запросы в LLM, а выстраивать контролируемый процесс разработки с понятными артефактами, проверками и ограничениями.
+### Engineering direction
 
-## Roadmap
+- local-first and single-user by default
+- deterministic financial facts separated from assumptions and manual or AI assessments
+- explicit requirements, ADRs, migrations, and testable invariants
+- gradual path toward funds, currencies, deposits, P/L and XIRR, FIRE planning, versioned AI access, and a local MCP server with human approval
+- no real financial data or secrets in Git
 
-### AI SE Platform
+### Stack
 
-**AI SE Platform** — долгосрочное архитектурное направление.
+`Python` · `FastAPI` · `SQLAlchemy 2.0` · `Alembic` · `SQLite` · `pytest` · `Ruff` · server-rendered HTML
 
-Это развитие Mini Agent Orchestrator в сторону платформы для AI-assisted software engineering:
+The source repository is currently private while I complete a dedicated privacy, security, Git-history, documentation, and licensing audit. Public case studies and proof-of-work artifacts will be added progressively.
 
-* управление спецификациями;
-* orchestration нескольких AI-агентов;
-* интеграция с developer tools;
-* review и quality gates;
-* evaluation AI-результатов;
-* контроль контекста, стоимости и надежности;
-* воспроизводимые workflows для разработки ПО.
+## Current engineering interests
 
-## Инженерный интерес
+AI Software Engineering · backend architecture · financial domain modeling · testing and reliability · local-first systems · safe AI integration · spec-driven development · developer tooling
 
-Мне интересны задачи на стыке backend engineering, developer tools и LLM-based systems:
+## Working principle
 
-* AI Software Engineering;
-* agentic workflows;
-* developer tooling;
-* LLM integration;
-* spec-driven development;
-* backend architecture;
-* automation of software development lifecycle;
-* надежные инженерные процессы вокруг AI.
+AI should strengthen engineering judgment through explicit requirements, reviewable artifacts, tests, and controlled workflows—not replace understanding.
 
-## Текущая цель
+---
 
-Развивать open-source проекты, которые показывают практический переход от классической software/backend engineering разработки к роли **AI Software Engineer**.
+### Кратко по-русски
 
-Главный принцип: AI должен не заменять инженерное мышление, а усиливать его через структуру, проверяемые артефакты и контролируемый процесс.
+Сейчас мой единственный активный продуктовый проект — **Personal Finance Tracker**: local-first система для инвестиций, личных финансов и движения к FIRE. Проект одновременно является используемым продуктом, портфолио-проектом и практической средой для развития в направлении **AI Software Engineer**.
