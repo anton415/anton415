@@ -1,7 +1,5 @@
 # Anton Serdyuchenko
 
-Backend software developer transitioning toward **AI Software Engineering**.
-
 I build local-first products where requirements, architecture, tests, and operational safety are explicit. My current work combines Python backend engineering, financial domain modeling, and controlled AI-assisted development.
 
 ## Active project: Personal Finance Tracker
@@ -48,4 +46,4 @@ AI should strengthen engineering judgment through explicit requirements, reviewa
 
 ### Кратко по-русски
 
-Сейчас мой единственный активный продуктовый проект — **Personal Finance Tracker**: local-first система для инвестиций, личных финансов и движения к FIRE. Проект одновременно является используемым продуктом, портфолио-проектом и практической средой для развития в направлении **AI Software Engineer**.
+Сейчас мой единственный активный продуктовый проект — **Personal Finance Tracker**: local-first система для инвестиций, личных финансов и движения к FIRE. Проект одновременно является используемым продуктом, портфолио-проектом и практической средой для развития.
