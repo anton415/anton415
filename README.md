@@ -1,26 +1,16 @@
 # Anton Serdyuchenko
 
-Software Engineer with 8+ years of experience developing and maintaining business-critical systems in the financial sector.
+Software Engineer with 8+ years of professional software-development experience.
 
-My strongest production experience is in Java, Spring, Hibernate, SQL, REST APIs, ActiveMQ, JUnit, Git, and Linux.
-
-I am currently expanding my capabilities in system design, database design, automated delivery, observability, reliability, and production ownership through practical project work.
+Employer-project implementation details, technologies, processes, scale, and outcomes are confidential. I am building independently verifiable portfolio evidence through personal projects.
 
 ## Current work
 
 ### Personal Finance Tracker
 
-My primary engineering learning project. It is used to practise:
+My primary personal learning project. The repository and its evidence remain private while I complete confidentiality, history, licensing, data, documentation, and reproducibility checks.
 
-- domain and transaction modelling;
-- architecture decisions;
-- testing strategy;
-- database integrity;
-- delivery automation;
-- observability and reliability;
-- operational documentation.
-
-The repository and documentation describe implemented functionality separately from planned work.
+I will describe its achievements as public evidence only after that publication gate passes and anonymous access is verified.
 
 ### Share Trip
 
