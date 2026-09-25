@@ -2,24 +2,107 @@
 
 Software Engineer with 8+ years of professional software-development experience.
 
-Employer-project implementation details, technologies, processes, scale, and outcomes are confidential. I am building independently verifiable portfolio evidence through personal projects.
+I am expanding my engineering background toward **AI Software Engineering and AgentOps** — with a focus on making AI-assisted development and agent systems reliable, measurable, reviewable, and safe to operate.
 
-## Current work
+[LinkedIn](https://www.linkedin.com/in/antonserdyuchenko) · [X](https://x.com/serdyuchenko_a) · [Personal website](https://serdyuchenko.com)
 
-### Personal Finance Tracker
+## Career trajectory
 
-My primary personal learning project. The repository and its evidence remain private while I complete confidentiality, history, licensing, data, documentation, and reproducibility checks.
+**Software Engineering → DevOps / Platform foundations → AI-assisted engineering → AgentOps**
 
-I will describe its achievements as public evidence only after that publication gate passes and anonymous access is verified.
+I treat this as a progression of engineering capabilities rather than a sequence of job titles.
 
-### Share Trip
+### Software Engineering
 
-A Go project developed as part of the Job4j course. Its purpose is structured Go practice and completing an externally defined project.
+My existing foundation includes:
 
-### Personal website
+- 8+ years of professional software development
+- requirements, implementation, testing, and review
+- working with existing and legacy systems
+- Git-based engineering workflows
+- maintainability and reliability
 
-A static professional profile and portfolio surface.
+Employer-project implementation details are confidential, so I build independently verifiable evidence through personal and open-source projects.
 
-## AI-assisted engineering
+### DevOps and automation
 
-I use AI tools to support research, requirements analysis, implementation, testing, review, and documentation. Generated output is treated as unverified input and remains subject to engineering review.
+I am strengthening the infrastructure and operational skills needed to move beyond application development:
+
+- Python for engineering automation
+- CI/CD and GitHub Actions
+- Linux and networking
+- containers and cloud fundamentals
+- monitoring and observability
+- operational reliability
+
+### AI-assisted engineering
+
+I use AI tools throughout the software-development lifecycle while treating generated output as **unverified input**.
+
+Current areas of experimentation include:
+
+- coding agents
+- agent-assisted requirements and implementation
+- automated and human code review
+- repository-level agent instructions
+- evaluation and regression testing
+- workflow automation
+- MCP and tool use
+- human-in-the-loop controls
+
+### AgentOps
+
+My longer-term specialization is the engineering required to operate AI-agent systems reliably.
+
+I am building practical knowledge of:
+
+- agent orchestration
+- evaluations
+- observability and tracing
+- quality, latency, and cost measurement
+- failure analysis
+- security and permission boundaries
+- human approval for consequential actions
+
+The goal is not simply to make agents complete tasks, but to understand **when they work, when they fail, what they cost, and how to operate them safely**.
+
+## Current project
+
+**finance-lab** is my main open-source engineering and learning project.
+
+It combines personal-finance application development with experiments in AI-assisted software engineering and AgentOps, including:
+
+- structured human/agent workflows
+- CI and automated quality checks
+- coding-agent reviews
+- agent evaluation
+- Python automation
+- repository-level agent instructions
+- explicit acceptance criteria and review gates
+
+I add AgentOps practices when they solve a concrete engineering problem rather than only to demonstrate a technology.
+
+## Learning approach
+
+I learn primarily through engineering projects rather than isolated tutorials.
+
+**Learn → Build → Measure → Review → Improve → Publish evidence**
+
+My current priorities are Python, CI/CD, DevOps fundamentals, coding-agent workflows, evaluation, observability, orchestration, and production AgentOps practices.
+
+## Engineering principles
+
+- **Evidence over claims.** Working code, tests, measurements, and documented experiments matter more than technology lists.
+- **AI output requires verification.**
+- **Humans retain responsibility for consequential decisions.**
+- **Reliability before autonomy.**
+- **Small, testable increments over speculative complexity.**
+- **Measure quality, cost, latency, failures, and human effort.**
+
+## Direction
+
+I am building toward engineering roles at the intersection of:
+
+**Software Engineering · DevOps · AI Engineering · AgentOps**
+
+with a particular interest in making AI agents useful as **production engineering systems rather than isolated demos**.
